@@ -1,12 +1,12 @@
-TELEGRAM_TOKEN = "2083375560:AAHrZX16u_hpHBULUfmnlNJZHz999N0sc5E"
-ADMIN_CHAT_ID = -1001606151295
-MODER_CHAT_ID = -1001558291984
+TELEGRAM_TOKEN = "token"
+ADMIN_CHAT_ID = admin_chat_id
+MODER_CHAT_ID = moder_chat_id
 
 ADMIN_LIST = [
-    830791990
+    admin_tg_id
 ]
 
 DEFAULT_ADDRESS = {
-    'house': 3.1,
-    'flat': 1110
+    'house': 1,
+    'flat': 101
 }
